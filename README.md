@@ -14,6 +14,10 @@ The Legend of Zelda: A dream to the Past is our take on the classic TLoZ: A link
 ### Trailer
 [![](https://img.youtube.com/vi/KBBwDbrTZeM/0.jpg)](https://www.youtube.com/watch?v=KBBwDbrTZeM)
 
+### Video
+[![](https://img.youtube.com/vi/xASPzPU7PFo/0.jpg)](https://www.youtube.com/watch?v=xASPzPU7PFo)
+
+
 ## Team
 
 ![](http://imgur.com/0A8s6hY.png)
