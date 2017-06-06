@@ -22,7 +22,7 @@ The Legend of Zelda: A dream to the Past is our take on the classic TLoZ: A link
 - Manager: [Guillem Arman](https://guillemarman.github.io/GuillemArman/)
 - Game Designer: [Pau Olive](https://github.com/rcpauor32)
 - Code: [Pau Bonet](https://boolaw.github.io/Role-Information/)
-- UI: [Roger Busquets](https://github.com/rogerbusquets97)
+- UI: [Roger Busquets](https://rogerbusquets97.github.io/Roger-Busquets-Duran/)
 - Art & Audio: [Jan Fuentes](https://github.com/JanFuentes)
 - QA: [Marc Torres](https://MarcFly.github.io/Marc-Torres/)
 
