@@ -27,7 +27,7 @@ The Legend of Zelda: A dream to the Past is our take on the classic TLoZ: A link
 - Game Designer: [Pau Olive](https://rcpauor32.github.io/Oliv-PauWeb/)
 - Code: [Pau Bonet](https://boolaw.github.io/Role-Information/)
 - UI: [Roger Busquets](https://rogerbusquets97.github.io/Roger-Busquets-Duran/)
-- Art & Audio: [Jan Fuentes](https://github.com/JanFuentes)
+- Art & Audio: [Jan Fuentes](https://janfuentes.github.io/JanFuentesWeb/)
 - QA: [Marc Torres](https://MarcFly.github.io/Marc-Torres/)
 
 Our [Facebook page](https://www.facebook.com/icecrewupc/)
