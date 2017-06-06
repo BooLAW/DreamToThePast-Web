@@ -28,6 +28,7 @@ The Legend of Zelda: A dream to the Past is our take on the classic TLoZ: A link
 
 Our [Facebook page](https://www.facebook.com/icecrewupc/)
 Our [Twitter](https://twitter.com/IceCrew_)
+Our [Github](https://github.com/BooLAW/Zelda-Project)
 
 Link to the [Gold Version of the Game!](https://github.com/BooLAW/Zelda-Project/releases/tag/v0.9.5-alpha)
 
