@@ -34,5 +34,5 @@ Our [Facebook page](https://www.facebook.com/icecrewupc/)
 Our [Twitter](https://twitter.com/IceCrew_)
 Our [Github](https://github.com/BooLAW/Zelda-Project)
 
-Link to the [Gold Version of the Game!](https://github.com/BooLAW/Zelda-Project/releases/tag/untagged-ca4a26349a41cd51b285)
+Link to the [Gold Version of the Game!](https://github.com/BooLAW/Zelda-Project/releases/tag/v1.0)
 
