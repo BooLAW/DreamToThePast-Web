@@ -11,6 +11,9 @@ Our hero wakes up in a world where he must fight endlessly against foes and vill
 The Legend of Zelda: A dream to the Past is our take on the classic TLoZ: A link to the Past, where the core of the game will shift towards a more fast-paced, crammed with action style of game while maintaining the essence that makes TLoZ game. Fans as we are of roguelike games such as The Binding of Isaac, Enter the Gungeon , Roguelight and many more, we feel that the pace that TLoZ games can be pumped up a little bit in order to appeal to a different, more action driven demographic.
 ![](http://imgur.com/EqZHxKl.png)
 
+### Trailer
+[![](https://img.youtube.com/vi/KBBwDbrTZeM/0.jpg)](https://www.youtube.com/watch?v=KBBwDbrTZeM)
+
 ## Team
 
 ![](http://imgur.com/0A8s6hY.png)
@@ -27,3 +30,4 @@ Our [Facebook page](https://www.facebook.com/icecrewupc/)
 Our [Twitter](https://twitter.com/IceCrew_)
 
 Link to the [Gold Version of the Game!](https://github.com/BooLAW/Zelda-Project/releases/tag/v0.9.5-alpha)
+
